@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LatihanVideoPlayer</string>
+	<string name="playAudioText">LatihanMediaPlayer</string>
+    <string name="action_settings">Settings</string>
+</resources>
